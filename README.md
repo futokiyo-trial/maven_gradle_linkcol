@@ -17,6 +17,8 @@ Maven Gradle 参考文献 リンク集
 
 [まだ間に合うMaven(再)入門 #jjug | JJUGナイトセミナー「Maven / Gradle入門」(動画 1時間くらい) ](https://www.youtube.com/watch?v=R5gWwOwo4iQ&feature=youtu.be)
 
+[まだ間に合うMaven(再)入門 #jjug | スライド ](https://speakerdeck.com/yusuke/madajian-nihe-umaven-zai-ru-men-number-jjug)
+
 [mvndaemon/mvnd: Maven Daemon](https://github.com/mvndaemon/mvnd)
 
 [Maven Publish Plugin](https://docs.gradle.org/current/userguide/publishing_maven.html)
