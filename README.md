@@ -31,4 +31,10 @@ Maven Gradle 参考文献 リンク集
 
 [2020-12-14 JJUG ナイトセミナーでの初登壇で触れた Gradle の Java toolchain の実験](https://mike-neck.hatenadiary.com/entry/2020/12/14/080000)
 
+[実はな、 gradle init --type pom --dsl groovy を実行するだけで、 pom.xml を build.gradle に変換してくれる仕組みは提供されてる](https://twitter.com/mike_neck/status/1365676052517847045)
+
+[pom.xmlをbuild.gradleにするやつ作ってる](https://twitter.com/yusuke/status/1364718393383923714)
+
+[こういうのがあるけど、exclusionをコンバートしてくれないんだよね](https://twitter.com/yusuke/status/1364718393383923714)
+
 [mvn install:install-fileコマンドのトラブル(sonatype NexusやJFrog ArtifactoryやJetBrains SpaceやGitHub Packagesなどのバイナリ/パッケージ管理のサーバーやプラットフォームがMavenで必要な理由)](https://futokiyo-trial.github.io/maven_gradle_linkcol/donot-use-mvn_install_install-file.html)
