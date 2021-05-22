@@ -41,3 +41,4 @@ Maven Gradle 参考文献 リンク集
 
 [FAT JARを簡単に作る](https://dev.classmethod.jp/articles/make_fat-jar/)
 
+[Gradle ことはじめ (Java プロジェクトを作成して、外部ライブラリをまとめてひとつの実行可能 JAR を生成するまで)](https://qiita.com/niwasawa/items/425b766578133f14d516)
