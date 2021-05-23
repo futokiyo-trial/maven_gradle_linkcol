@@ -38,3 +38,7 @@ Maven Gradle 参考文献 リンク集
 [こういうのがあるけど、exclusionをコンバートしてくれないんだよね](https://twitter.com/yusuke/status/1364718393383923714)
 
 [mvn install:install-fileコマンドのトラブル(sonatype NexusやJFrog ArtifactoryやJetBrains SpaceやGitHub Packagesなどのバイナリ/パッケージ管理のサーバーやプラットフォームがMavenで必要な理由)](https://futokiyo-trial.github.io/maven_gradle_linkcol/donot-use-mvn_install_install-file.html)
+
+[FAT JARを簡単に作る](https://dev.classmethod.jp/articles/make_fat-jar/)
+
+[Gradle ことはじめ (Java プロジェクトを作成して、外部ライブラリをまとめてひとつの実行可能 JAR を生成するまで)](https://qiita.com/niwasawa/items/425b766578133f14d516)
