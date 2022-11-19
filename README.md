@@ -41,6 +41,8 @@ Maven Gradle 参考文献 リンク集
 
 [maven-dependency-plugin](https://maven.apache.org/plugins/maven-dependency-plugin/usage.html)
 
+[Maven Assemblyとは？ - Qiita 投稿日 2018年12月15日](https://qiita.com/hakshu/items/0f7b59f00a02b506b07d)
+
 [FAT JARを簡単に作る](https://dev.classmethod.jp/articles/make_fat-jar/)
 
 [Gradle ことはじめ (Java プロジェクトを作成して、外部ライブラリをまとめてひとつの実行可能 JAR を生成するまで)](https://qiita.com/niwasawa/items/425b766578133f14d516)
