@@ -25,6 +25,8 @@ Maven Gradle 参考文献 リンク集
 
 [Springはビルドツールをmavenからgradleへ移行している。](https://spring.io/blog/2020/06/08/migrating-spring-boot-s-build-to-gradle)
 
+[How to Create a Java Library: From Scratch to Maven Central 2021/4/21](https://thegreatapi.com/blog/create-a-library-from-scratch/)
+
 [Gradle を完全に理解した人が、何も分からなくなるための第一歩](https://qiita.com/opengl-8080/items/c482998fa15ce738e2ba)
 
 [2020-12-12 あなたの知らない Gradle の kotlin-dsl プラグイン](https://mike-neck.hatenadiary.com/entry/2020/12/12/200747)
